@@ -10,8 +10,10 @@ Setup was checked on macOS; Windows and Linux are not verified.
 | --- | --- | --- |
 | [`bike-demand/`](bike-demand/README.md) | your **team repository**: code, tests, CI, team worksheet | one member, shared with the team |
 | [`report-template/`](report-template/README.md) | your **private report repository**: weekly reports with screenshots | each student |
+| [`slides/`](slides/) | nothing — read-only Week 1 lecture and lab PDFs for your own study | — |
 
-Both live here so you only clone once.
+The two template folders live here so you only clone once; `slides/` is reading
+material and stays untouched.
 
 ## 1. Clone the starter
 
@@ -67,7 +69,9 @@ is an installation error. Only student files and blank templates live here.
 
 ## Course materials
 
-Published syllabus and lab PDFs are on the separate [`materials`](https://github.com/minhtc-uca/mlops-course/tree/materials) branch:
+The Week 1 decks also ship with this starter clone under `slides/week01/`, so you
+already have them. The syllabus and the remaining published PDFs are on the
+separate [`materials`](https://github.com/minhtc-uca/mlops-course/tree/materials) branch:
 
 ```bash
 git clone --single-branch --branch materials https://github.com/minhtc-uca/mlops-course.git mlops-materials
