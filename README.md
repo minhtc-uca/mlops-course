@@ -1,4 +1,4 @@
-# INFO9023: MLOps course starter
+# ECE - MLOps: Machine Learning Systems Design
 
 Starter files for Week 1, Labs 1–2 (Bike Demand). This repository is a read-only
 source: you copy it into **your own** private repositories, described below.
