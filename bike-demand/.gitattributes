@@ -1,0 +1,6 @@
+# Frozen data snapshot: byte-identical on every OS (no line-ending conversion).
+# data/manifest.json records the SHA-256 of data/raw/hour.csv; keep this file when
+# copying the starter into your team repository.
+data/raw/hour.csv -text
+data/UCI-original-Readme.txt -text
+tests/fixtures/*.csv -text
