@@ -10,10 +10,11 @@ Setup was checked on macOS; Windows and Linux are not verified.
 | --- | --- | --- |
 | [`bike-demand/`](bike-demand/README.md) | your **team repository**: code, tests, CI, team worksheet | one member, shared with the team |
 | [`report-template/`](report-template/README.md) | your **private report repository**: weekly reports with screenshots | each student |
-| [`slides/`](slides/) | nothing — read-only Week 1 lecture and lab PDFs for your own study | — |
+| [`slides/`](slides/) | nothing — read-only lecture and lab PDFs, one folder per week | — |
+| [`final-exam/`](final-exam/README.md) | nothing — final MCQ exam: format, last year's paper (reference only), revision topics | — |
 
-The two template folders live here so you only clone once; `slides/` is reading
-material and stays untouched.
+The two template folders live here so you only clone once; `slides/` and
+`final-exam/` are reading material and stay untouched.
 
 ## 1. Clone the starter
 
